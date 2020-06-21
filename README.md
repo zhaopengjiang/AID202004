@@ -7,3 +7,4 @@
 This is some exercise tasks from study python.
 * A simple chat room
 * A simple student manage system
+* A simple ftc exercise
