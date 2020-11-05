@@ -1,4 +1,4 @@
-# AID202004
+# learn python some project
 ### author: Zhao
 ### date: 2020-6-20
 ### email: 2687945480@qq.com
